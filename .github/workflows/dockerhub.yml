@@ -4,7 +4,7 @@ on:
     branches: [ main ]
 
 jobs:
-  docker-deploy:
+  dockerhub-deploy:
     runs-on: ubuntu-latest
 
     steps:
